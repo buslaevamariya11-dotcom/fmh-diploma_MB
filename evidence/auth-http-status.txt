@@ -1,0 +1,9 @@
+10-23 18:47:19.815  4452  5315 I okhttp.OkHttpClient: <-- 401 https://students.netoservices.ru/qamid-diplom-backend/authentication/login (8370ms)
+10-23 18:47:19.818  4452  5315 I okhttp.OkHttpClient: <-- END HTTP (126-byte body)
+10-23 18:47:19.822  4452  4452 W System.err: ru.edu.qamid.exceptions.UnknownException
+10-23 18:47:43.997  4452  5315 I okhttp.OkHttpClient: <-- 200 https://students.netoservices.ru/qamid-diplom-backend/authentication/login (279ms)
+10-23 18:47:44.004  4452  5315 I okhttp.OkHttpClient: <-- END HTTP (368-byte body)
+10-23 18:47:52.459  4452  5431 I okhttp.OkHttpClient: <-- 200 https://students.netoservices.ru/qamid-diplom-backend/authentication/userInfo (8448ms)
+10-23 18:47:52.462  4452  5431 I okhttp.OkHttpClient: <-- END HTTP (220-byte body)
+10-23 18:47:54.233  4452  5454 I okhttp.OkHttpClient: <-- 200 https://students.netoservices.ru/qamid-diplom-backend/news?pages=1&publishDate=false (1751ms)
+10-23 18:47:54.236  4452  5454 I okhttp.OkHttpClient: <-- END HTTP (2107-byte body)
